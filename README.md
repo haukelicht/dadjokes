@@ -23,5 +23,5 @@ tell_joke(n.jokes = 3)
 jokes <- tell_joke(as.character = TRUE)
 
 # don't shuffle jokes
-tell_joke(randfom = FALSE)
+tell_joke(random = FALSE)
 ```
