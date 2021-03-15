@@ -5,7 +5,7 @@ Function tell_joke() queries the dad jokes API at https://www.fatherhood.gov and
 ## Installation
 
 ```r
-remotes::install_github("haukelicht/dadjoke")
+remotes::install_github("haukelicht/dadjokes")
 ```
 
 ## Usage
