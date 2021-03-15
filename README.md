@@ -1,6 +1,6 @@
 # dadjokes: R package to tell dad jokes
 
-Function `tell_joke() queries the dad jokes API at https://www.fatherhood.gov and prints joke(s) to the console.
+Function `tell_joke()` queries the dad jokes API at https://www.fatherhood.gov and prints joke(s) to the console.
 
 ## Installation
 
